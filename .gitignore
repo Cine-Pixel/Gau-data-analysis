@@ -1,7 +1,8 @@
 .Rproj.user
 .RData
 .Rhistory
-.Rprogramming.Rproj
+.*.Rproj
+*.Rproj
 .venv/
 pyenv/
 .ipynb_checkpoints/
